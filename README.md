@@ -16,7 +16,7 @@ A personal portfolio website developed using HTML, CSS, and JavaScript.
 - JavaScript
 
 ## Live Demo
-
+https://khyathibellam.github.io/CodeAlpha_Portfolio/
 
 ## Author
 Khyathi Bellam
